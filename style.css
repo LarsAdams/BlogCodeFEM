@@ -3,11 +3,6 @@
     padding:0;
     box-sizing: border-box;
 }
-
-@font-face {
-    font-family:"Figtree"; 
-    src: url('https://github.com/LarsAdams/BlogCodeFEM/blob/main/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype') tech(variations);
-  }
   
 body {
     background-color: #F4D04E;
@@ -30,7 +25,7 @@ body {
     border: 1px solid #111;
     border-radius: 20px;
     color: #111111;
-    font-family:"Figtree";
+    font-family:"Figtree", sans-serif;
     box-shadow: 8px 8px #000;
 }
 
