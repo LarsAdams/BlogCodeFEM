@@ -6,10 +6,9 @@
 
 @font-face {
     font-family:"Figtree"; 
-    src: url('/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype') tech(variations);
+    src: url('https://github.com/LarsAdams/BlogCodeFEM/blob/main/assets/fonts/Figtree-VariableFont_wght.ttf') format('truetype') tech(variations);
   }
   
-
 body {
     background-color: #F4D04E;
 }
